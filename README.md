@@ -15,4 +15,4 @@ I am a technology enthusiast who bridges the gap between technical development a
 
 ---
 #### 📌 Featured Projects
-Check out my pinned repositories below to see how I apply logic, AI, and data to create business value and improve processes!
+Check out my pinned repositories below to see how I apply logic and data to create business value and improve processes!
