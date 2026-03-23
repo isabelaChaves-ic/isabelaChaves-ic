@@ -10,7 +10,7 @@ I am a technology enthusiast who bridges the gap between technical development a
 - 📫 **Let's connect:** (https://www.linkedin.com/in/isabelachaves/)
 
 ### 🛠️ Tech Stack & Skills
-- **Programming, Data & AI:** Python, SQL, Java, Kotlin
+- **Programming, Data & AI:** Python, SQL, PowerBI
 - **Business & Processes:** Business Analysis, Process Optimization, Product Management, Business Strategy
 
 ---
