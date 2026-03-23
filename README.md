@@ -1,4 +1,4 @@
-# Hey there, I'm Isabela! 👋
+## Hey there, I'm Isabela! 👋
 
 ### IT Student | Software Engineering, AI & Business Analysis
 
